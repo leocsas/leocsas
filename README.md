@@ -4,7 +4,6 @@
 - 🌱 Faço faculdade de Análise e Desenvolvimento de Sistemas
 - 🤔 Estudando Python e JavaScript
 
-##
 <div  align="center">
 <div style="display: inline_block"><br>
       <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -32,7 +31,4 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
-
-</div
-
-###
+</div>
