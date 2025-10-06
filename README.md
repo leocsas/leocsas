@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com suporte técnico em T.I
 - 🌱 Faço faculdade de Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando Python e JavaScript
+- 🤔 Estudando Python e JavaScript
 
 ##
 
